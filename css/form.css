@@ -1,0 +1,40 @@
+#form{
+    padding: 80px 0;
+    background: #F3F3F3;
+}
+.form__heading{
+    padding-right: 155px;
+}
+.form__left{
+    padding-top: 100px;
+}
+.form__right{
+    padding: 20px 40px;
+    background: var(--white_color);
+    border-radius: 20px;
+    width: 80%;
+}
+.form__right h3{
+    font-size: 35px;
+    font-weight: 700;
+}
+.form__right p{
+    margin-bottom: 0;
+    padding: 10px 0;
+}
+.form__right input{
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #D0D0D0;
+    border-radius: 5px;
+}
+.form__btn{
+    padding: 20px 0;
+}
+.form__btn button{
+    padding: 15px 26%;
+    border: 1px solid #D0D0D0;
+    border-radius: 5px;
+    background: var(--common_color);
+    color: var(--white_color);
+}

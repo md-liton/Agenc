@@ -1,0 +1,31 @@
+#footer{
+    padding: 80px 0;
+}
+.footer__paragraph{
+    padding-right: 50px;
+    margin-bottom: 0;
+}
+.footer__right{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__item ul{
+    padding-left: 0;
+    padding-top: 20px;
+}
+.footer__item ul li a{
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--paragraph_color);
+}
+.footer__underline{
+    margin-top: 50px;
+    height: 2px;
+    width: 100%;
+    background: #E8E8E8;
+}
+.down_paragraph{
+    font-size: 25px;
+    padding: 20px 0;
+}

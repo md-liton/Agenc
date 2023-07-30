@@ -1,0 +1,23 @@
+#choose{
+    padding: 80px 0;
+}
+.choose__heading{
+    padding: 0 200px;
+}
+.choose__paragraph{
+    padding-bottom: 125px;
+}
+.choose__item--main{
+    display: flex;
+}
+.choose__item{
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.choose__item--heading{
+    padding: 15px 0;
+    margin-bottom: 0;
+}
+.choose__item--paragraph{
+    padding-right: 40px;
+}

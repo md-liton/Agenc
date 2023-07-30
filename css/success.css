@@ -1,0 +1,30 @@
+#success{
+    padding: 80px 0;
+}
+.success__main{
+    background: #E0FFF9;
+    padding: 80px 0;
+    border-radius: 10px;
+}
+.success__left{
+    padding-left: 10px;
+}
+.success__span{
+    font-size: 25px;
+    font-weight: 500;
+    color: var(--common_color);
+    padding-bottom: 15px;
+}
+.success__heading{
+    font-size: 35px;
+    font-weight: 600;
+    color: var(--heading_color);
+}
+.success__right{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+.success__item--heading{
+    font-size: 50px;
+}
